@@ -46,3 +46,5 @@ while max(players_scores) < max_score:
 
         players_scores[players_idx] += current_score
         print("Your total score is:", players_scores[players_idx])
+
+        
